@@ -1,0 +1,90 @@
+---
+layout: post
+title:  "ilo nimi pi sitelen pona"
+date:   2024-12-05 21:05:00 -0500
+categories: pali e
+---
+mi pali e ilo nimi pi sitelen pona. 
+
+### nimi mi li seme
+
+mi seme Alison. sitelen pona la, mi kepeken sitelen  
+&nbsp;&nbsp;&nbsp;&nbsp;alasa  
+&nbsp;&nbsp;&nbsp;&nbsp;lipu  
+&nbsp;&nbsp;&nbsp;&nbsp;ilo  
+&nbsp;&nbsp;&nbsp;&nbsp;sona  
+&nbsp;&nbsp;&nbsp;&nbsp;open  
+&nbsp;&nbsp;&nbsp;&nbsp;nasin.  
+nimi ni en sitelen ni li suli tawa mi. sina nimi e mi la o kepeken sitelen ni taso.
+
+### seme la mi sitelen e nimi mi lon lipu
+
+mi pali e sitelen musi  
+mi en jan esun li pali e lipu esun  
+mi pali e lipu li pana e ona tawa jan ante  
+&nbsp;&nbsp;&nbsp;&nbsp;la mi wile sitelen e nimi mi lon lipu.
+
+### ilo seme li ken pali e sitelen nimi
+
+tenpo mute la jan li sitelen e nimi ona kepeken [palisa sitelen](https://en.wikipedia.org/wiki/Pen). taso mi toki ala e ilo ni.
+
+tenpo weka la ma Sonko en ma poka la [ilo kiwen](https://en.wikipedia.org/wiki/Seals_in_the_Sinosphere) li lon. sitelen nimi jasima li lon sinpin ilo.  
+nimi li ken  
+&nbsp;&nbsp;&nbsp;&nbsp;nimi jan  
+&nbsp;&nbsp;&nbsp;&nbsp;anu nimi lawa  
+&nbsp;&nbsp;&nbsp;&nbsp;anu nimi esun  
+&nbsp;&nbsp;&nbsp;&nbsp;anu nimi kulupu  
+&nbsp;&nbsp;&nbsp;&nbsp;anu nimi ma  
+&nbsp;&nbsp;&nbsp;&nbsp;anu nimi ante.  
+jan li pana e ko loje lon sinpin ilo  
+&nbsp;&nbsp;&nbsp;&nbsp;li pana e sinpin ilo lon lipu  
+&nbsp;&nbsp;&nbsp;&nbsp;la lipu li kama jo e sitelen nimi.
+
+### nasin seme la mi pali e ilo nimi
+
+mi kepeken ilo pi weka sitelen li kepeken ilo kipisi li kepeken supa loje.
+
+![ijo pali mi](/assets/ilo-nimi/sitelen/ijo-pali.jpg)
+
+nanpa wan la mi sitelen e nimi mi jasima lon sinpin ilo.
+
+![sitelen open jasima](/assets/ilo-nimi/sitelen/sitelen-open-jasima.jpg)
+
+nanpa tu la mi open kipisi.
+
+![insa pali](/assets/ilo-nimi/sitelen/insa-pali.jpg)
+
+lon insa pali la mi loje e sinpin ilo  
+&nbsp;&nbsp;&nbsp;&nbsp;li pana e ona lon lipu  
+&nbsp;&nbsp;&nbsp;&nbsp;li lukin e sitelen  
+&nbsp;&nbsp;&nbsp;&nbsp;li pona e sitelen.
+
+![sitelen mute](/assets/ilo-nimi/sitelen/sitelen-mute.jpg)
+
+### pali pini
+
+![sinpin ilo](/assets/ilo-nimi/sitelen/pini-pali.jpg)
+![sitelen nimi](/assets/ilo-nimi/sitelen/sitelen-pini.jpg)
+
+### kepeken
+
+mi kepeken ilo nimi  
+&nbsp;&nbsp;&nbsp;&nbsp;lon lipu pi mi jo  
+&nbsp;&nbsp;&nbsp;&nbsp;lon lipu pi mi pali  
+&nbsp;&nbsp;&nbsp;&nbsp;lon lipu pi mi pana.
+
+![lipu jo](/assets/ilo-nimi/sitelen/kepeken-jo.jpg)
+![lipu pali](/assets/ilo-nimi/sitelen/kepeken-pali.jpg)
+![lipu suli](/assets/ilo-nimi/sitelen/kepeken-lipu-suli.jpg)
+![lipu pana](/assets/ilo-nimi/sitelen/kepeken-pana.jpg)
+
+### toki pini
+
+sina wile la o pali e ilo nimi sina.  
+ni li musi a  
+&nbsp;&nbsp;&nbsp;&nbsp;li wile e tenpo suli ala  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e mani suli ala.
+
+ale la o musi kepeken sitelen  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;kepeken lipu  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;kepeken nimi kin!
