@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ilo nimi pi sitelen pona"
+title:  "seme Alison li pali e ilo nimi pi sitelen pona"
 date:   2024-12-05 21:05:00 -0500
 categories: pali e
 ---
@@ -44,27 +44,27 @@ jan li pana e ko loje lon sinpin ilo
 
 mi kepeken ilo pi weka sitelen li kepeken ilo kipisi li kepeken supa loje.
 
-![ijo pali mi](/assets/ilo-nimi/sitelen/ijo-pali.jpg)
+![ijo pali mi](/sitelen/ilo-nimi/sitelen/ijo-pali.jpg)
 
 nanpa wan la mi sitelen e nimi mi jasima lon sinpin ilo.
 
-![sitelen open jasima](/assets/ilo-nimi/sitelen/sitelen-open-jasima.jpg)
+![sitelen open jasima](/sitelen/ilo-nimi/sitelen/sitelen-open-jasima.jpg)
 
 nanpa tu la mi open kipisi.
 
-![insa pali](/assets/ilo-nimi/sitelen/insa-pali.jpg)
+![insa pali](/sitelen/ilo-nimi/sitelen/insa-pali.jpg)
 
 lon insa pali la mi loje e sinpin ilo  
 &nbsp;&nbsp;&nbsp;&nbsp;li pana e ona lon lipu  
 &nbsp;&nbsp;&nbsp;&nbsp;li lukin e sitelen  
 &nbsp;&nbsp;&nbsp;&nbsp;li pona e sitelen.
 
-![sitelen mute](/assets/ilo-nimi/sitelen/sitelen-mute.jpg)
+![sitelen mute](/sitelen/ilo-nimi/sitelen/sitelen-mute.jpg)
 
 ### pali pini
 
-![sinpin ilo](/assets/ilo-nimi/sitelen/pini-pali.jpg)
-![sitelen nimi](/assets/ilo-nimi/sitelen/sitelen-pini.jpg)
+![sinpin ilo](/sitelen/ilo-nimi/sitelen/pini-pali.jpg)
+![sitelen nimi](/sitelen/ilo-nimi/sitelen/sitelen-pini.jpg)
 
 ### kepeken
 
@@ -73,10 +73,10 @@ mi kepeken ilo nimi
 &nbsp;&nbsp;&nbsp;&nbsp;lon lipu pi mi pali  
 &nbsp;&nbsp;&nbsp;&nbsp;lon lipu pi mi pana.
 
-![lipu jo](/assets/ilo-nimi/sitelen/kepeken-jo.jpg)
-![lipu pali](/assets/ilo-nimi/sitelen/kepeken-pali.jpg)
-![lipu suli](/assets/ilo-nimi/sitelen/kepeken-lipu-suli.jpg)
-![lipu pana](/assets/ilo-nimi/sitelen/kepeken-pana.jpg)
+![lipu jo](/sitelen/ilo-nimi/sitelen/kepeken-jo.jpg)
+![lipu pali](/sitelen/ilo-nimi/sitelen/kepeken-pali.jpg)
+![lipu suli](/sitelen/ilo-nimi/sitelen/kepeken-lipu-suli.jpg)
+![lipu pana](/sitelen/ilo-nimi/sitelen/kepeken-pana.jpg)
 
 ### toki pini
 
